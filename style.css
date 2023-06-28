@@ -33,6 +33,10 @@ span {
   color: #f9004d;
 }
 
+span1 {
+  color: white;
+}
+
 nav ul li {
   list-style-type: none;
   display: inline-block;
@@ -211,4 +215,9 @@ h4 {
 
 .headmail a {
   color: #fcfc;
+}
+
+.glbg {
+  width: 100%;
+  background-color: #191919;
 }
